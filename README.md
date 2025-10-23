@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, sou Danieli Zeferino!</h1>
 
-🎓 Acadêmica de **Ciência da Computação (2ª fase)** pela **UNESC**, com experiência prática em desenvolvimento de sistemas e projetos tecnológicos através de estágio na empresa **Addit**.  
+🎓 Acadêmica de **Ciência da Computação (2ª fase)** pela **UNESC**, com experiência prática em desenvolvimento de sistemas e projetos tecnológicos através de estágio na empresa **Aditt**.  
 💡 Atuei no desenvolvimento de um aplicativo para **HoloLens 2**, voltado à classificação de tecidos por tonalidade (Meta-Classificador de Tecidos).  
 🧠 Atualmente participo do desenvolvimento de um **Sistema de Agendamento de Salas** com interface moderna e integração via WhatsApp.  
 Sou apaixonada por **tecnologia, inovação e design interativo**.
