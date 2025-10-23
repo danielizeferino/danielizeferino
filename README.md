@@ -1,42 +1,52 @@
-<h1 align="center">Olá, sou  Danieli Zeferino! 👋</h1>
+<h1 align="center">👋 Olá, sou Danieli Zeferino!</h1>
 
-<p align="left"> 
-Acadêmica de Ciência da Computação (2ª fase) pela UNESC, com experiência prática 
-em desenvolvimento de sistemas e projetos tecnológicos através de estágio pela 
-empresa Addit. Atuei no desenvolvimento de um aplicativo para HoloLens 2 voltado à 
-classificação de tecidos por tonalidade e atualmente participo do projeto de uma 
-Agenda de agendamento de salas. Perfil proativo, comunicativa e apaixonada por 
-tecnologia e inovação. 
-</p>
+🎓 Acadêmica de **Ciência da Computação (2ª fase)** pela **UNESC**, com experiência prática em desenvolvimento de sistemas e projetos tecnológicos através de estágio na empresa **Addit**.  
+💡 Atuei no desenvolvimento de um aplicativo para **HoloLens 2**, voltado à classificação de tecidos por tonalidade (Meta-Classificador de Tecidos).  
+🧠 Atualmente participo do desenvolvimento de um **Sistema de Agendamento de Salas** com interface moderna e integração via WhatsApp.  
+Sou apaixonada por **tecnologia, inovação e design interativo**.
 
 ---
-<h2 align="left">🛠️ Habilidades</h2>
+
+### 🧩 Habilidades
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,elementor,figma,html,css,js,mysql,git" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
 </p>
 
 ---
-<h2 align="left">🚀 Projetos em Destaque</h2>
-<p>
-  EM BREVE
-</p>
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| 🧵 **Meta-Classificador de Tecidos com HoloLens 2** | Aplicativo de realidade mista para análise de tonalidade de tecidos usando sensores ópticos e IA. | Unity • C# • MRTK • OpenXR |
+| 🗓️ **Sistema de Agendamento de Salas (CRIO)** | Plataforma web desenvolvida para o Centro de Inovação de Criciúma (CRIO), com autenticação, calendário e confirmação via WhatsApp. | Next.js • Node.js • Docker • PostgreSQL |
 
 ---
-<h2 align="left">📫 Contato</h2>
+
+### 📫 Contato
+
 <p align="left">
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="mailto:danieli_zeferino@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/danielizeferino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
-<h2 align="left">📊 Estatísticas</h2>
+
+### 📊 Estatísticas
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielizeferino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielizeferino&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danielizeferino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielizeferino&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
+
+---
+
+✨ *Se gostou dos projetos, deixe uma ⭐ no repositório para apoiar o desenvolvimento!*  
