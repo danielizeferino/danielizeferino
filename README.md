@@ -1,7 +1,12 @@
-<h1 align="center">Olá, eu sou o Daniel Zeferino! 👋</h1>
+<h1 align="center">Olá, sou  Danieli Zeferino! 👋</h1>
 
 <p align="left"> 
-Sou um Web Designer apaixonado por criar experiências digitais incríveis. Com especialização em WordPress e Elementor, transformo ideias em sites funcionais e visualmente atraentes. Atualmente, estou explorando novas tecnologias e aprimorando minhas habilidades em desenvolvimento front-end.
+Acadêmica de Ciência da Computação (2ª fase) pela UNESC, com experiência prática 
+em desenvolvimento de sistemas e projetos tecnológicos através de estágio pela 
+empresa Addit. Atuei no desenvolvimento de um aplicativo para HoloLens 2 voltado à 
+classificação de tecidos por tonalidade e atualmente participo do projeto de uma 
+Agenda de agendamento de salas. Perfil proativo, comunicativa e apaixonada por 
+tecnologia e inovação. 
 </p>
 
 ---
