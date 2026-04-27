@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedora focada em **Realidade Estendida (XR)**, criando experiências imersivas com Unity para dispositivos como **Meta Quest e HoloLens 2**.
+Sou desenvolvedora focada em **Realidade Mista (XR)**, criando experiências imersivas com Unity para dispositivos como **Meta Quest e HoloLens 2**.
 
 Atualmente atuo no desenvolvimento do projeto **CASA ABEn (Meta Quest)**, voltado à criação de uma experiência interativa em realidade virtual.
 
@@ -78,4 +78,4 @@ Além disso, desenvolvo aplicações web modernas com foco em produto e usabilid
 
 ---
 
-✨ *Construindo o futuro com Realidade Estendida.*
+
